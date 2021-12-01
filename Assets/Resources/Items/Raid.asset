@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c05f3dfb09ed04fbe0da50efc93b7d, type: 3}
+  m_Name: Raid
+  m_EditorClassIdentifier: 
+  effect: 1
+  damage: 0
+  effectDuration: 20
+  onMapDuration: 15
+  useTime: 5
+  cursor: {fileID: 2800000, guid: 22199c72765037349b9d8192940ab663, type: 3}
+  cost: 0
